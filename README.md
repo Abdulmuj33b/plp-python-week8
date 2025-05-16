@@ -81,10 +81,8 @@ This analysis transforms raw pandemic data into actionable insights, helping gov
 
 --- 
 
-**Created By**: [Your Name/Organization]  
+**Created By**: [Abidoye Abdulmujeeb Abiola | PLP Student]  
 **Data Source**: [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data)  
-**Last Updated**: [Insert Date]  
+**Last Updated**: [14/05/2025]  
 
---- 
-
-Let me know if you’d like to focus on specific sections or simplify further! 😊
+---
