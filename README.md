@@ -25,6 +25,11 @@ This project analyzes global COVID-19 trends using publicly available data. It t
 
 ---
 
+## **How to Use**
+- **Run Covid19.ipynb on google colab and voila!
+
+--- 
+
 ## **What the Analysis Reveals**  
 ### For Non-Technical Users:  
 - **Global Overview**: Which continents had the most cases/deaths.  
